@@ -24,7 +24,7 @@
 
 
 **Perfil LinkedIn:** </br>
-`<LinkedIn>` : www.linkedin.com/in/franco-galan-def
+`<LinkedIn>` : www.linkedin.com/in/franco-galan-def </br>
 `<Video de la app>` : https://www.linkedin.com/posts/franco-galan-def_csharp-activity-6968619429840478208-Zt3i?utm_source=share&utm_medium=member_desktop
 
 
