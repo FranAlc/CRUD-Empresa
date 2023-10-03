@@ -1,14 +1,14 @@
 # CRUD - Empresa
 > ### Login
 <p align="center">
-  <img src="https://i.postimg.cc/bJnxJ3cC/imagen-2023-06-19-180605880.png" alt="Barbería Alura"/>
+  <img src="https://i.postimg.cc/bJnxJ3cC/imagen-2023-06-19-180605880.png" alt="C#"/>
 </p>
 
 ### La aplicación está desarrollada en C# utilizando la biblioteca de Windows Forms. Al iniciar la aplicación, se muestra una pantalla de inicio de sesión donde los usuarios deben ingresar sus credenciales para acceder a la funcionalidad principal.
 
 > ### Interfaz CRUD 
 <p align="center">
-  <img src="https://i.postimg.cc/8zhgRVdN/imagen-2023-06-19-181037413.png" alt="Barbería Alura"/>
+  <img src="https://i.postimg.cc/8zhgRVdN/imagen-2023-06-19-181037413.png" alt="C#"/>
 </p>
 
 ### Una vez que un usuario inicia sesión correctamente, se le redirige a la pantalla principal donde puede gestionar los datos básicos de los trabajadores. Estos datos incluyen el nombre, la edad, el puesto de trabajo y el salario.
